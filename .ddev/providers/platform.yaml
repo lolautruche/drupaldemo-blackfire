@@ -22,7 +22,7 @@
 
 environment_variables:
   project_id: 432sjunluhjh6
-  environment: main
+  environment: 8.9
 
 auth_command:
   command: |
