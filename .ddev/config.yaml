@@ -17,7 +17,7 @@ use_dns_when_possible: true
 composer_version: "2"
 web_environment: []
 nodejs_version: "16"
-hhooks:
+hooks:
   post-start:
     - exec-host: 'ddev blackfire'
 
